@@ -1,5 +1,5 @@
 ## Link publico del proyecto (URL)
-https://rafaelchirel.github.io/religion/
+http://f570dc56ebf04d.16mb.com/religion/
 
 ## Instalación
 **Git**
